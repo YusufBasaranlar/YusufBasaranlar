@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Yusuf Basaranlar</h1>
+<h1 align="center">Merhaba 👋, Ben Yusuf Başaranlar</h1>
 <h3 align="center">Türkiye'den tutkulu bir web geliştiricisi</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
